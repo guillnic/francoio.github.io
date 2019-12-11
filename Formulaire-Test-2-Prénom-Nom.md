@@ -15,7 +15,7 @@ output: pdf_document
 
 ###### Réponse : 
 
-** **
+** 1/m **
 
 ##### Question 2
 
