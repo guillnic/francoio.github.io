@@ -15,7 +15,7 @@ output: pdf_document
 
 ###### Réponse : 
 
-** **
+** 1/m **
 
 ##### Question 2
 
@@ -23,7 +23,7 @@ output: pdf_document
 
 ###### Réponse : 
 
-** **
+** 3.89 **
 
 ##### Question 3
 
